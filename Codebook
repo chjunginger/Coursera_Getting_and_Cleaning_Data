@@ -7,10 +7,7 @@
   values: LAYING,SITTING,STANDING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,WALKING
 
 
-The following variables are coded the following way:
-
-
-the following variables are the average values (for the subject and activity examined) of the same-named values of the original dataset.
+The following variables are the average values (for the subject and activity examined) of the same-named values of the original dataset.
 An excerpt of the original codebook can be found further down.
 
 
@@ -123,7 +120,6 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-The complete list of variables of each feature vector is available in 'features.txt'
 
 
 
