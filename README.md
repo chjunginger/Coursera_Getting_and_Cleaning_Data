@@ -1,7 +1,7 @@
 # Coursera_Getting_and_Cleaning_Data
 Code for the project of the Getting and Cleaning Data Course of JHU of Public Health on Coursera
 
-The entire code is run_analysis.R.
+The entire code is run_analysis.R. The working directory has to be the UCI HAR Dataset folder.
 
 1. the plyr library is imported and the working directory set
 2. The test and train datasets are concatenated for 
